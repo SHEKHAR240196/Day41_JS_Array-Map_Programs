@@ -12,6 +12,6 @@ for(var i = 2; i <= number; i++) {
     }
     if(number < 2){
         console.log(number);
-    }
+    } 
    }
  });
