@@ -6,7 +6,7 @@ for(let i = 0;i < 10; i++){
 console.log(array)
 
 var largest1 = 0;
-var largest2 = 0;
+var largest2 = 0; 
 var smallest1 = array[0];
 var smallest2 = array[0];
 
