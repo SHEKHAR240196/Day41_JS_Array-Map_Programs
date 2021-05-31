@@ -7,4 +7,4 @@ while(valuecount < 10){
 }
 console.log(map);
 console.log("Minumim dice count:"+Math.min(...map.values()));
-console.log("Maximum dice value:"+Math.max(...map.values()));
+console.log("Maximum dice value:"+Math.max(...map.values()));  
