@@ -42,5 +42,5 @@ console.log("People born in July : " + individualMonth.get("July"));
 console.log("People born in August : " + individualMonth.get("August"));
 console.log("People born in September : " + individualMonth.get("September"));
 console.log("People born in October : " + individualMonth.get("October"));
-console.log("People born in November : " + individualMonth.get("November"));
+console.log("People born in November : " + individualMonth.get("November")); 
 console.log("People born in December : " + individualMonth.get("December"));
